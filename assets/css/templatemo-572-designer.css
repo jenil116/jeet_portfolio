@@ -527,6 +527,9 @@ section.explore-work .right-content ul li ul.info li em {
   section.explore-work .right-content ul li ul.info li em {
     display: inline;
   }
+  section.contact-us form {
+    padding: 25px;
+  }
 }
 
 section.whats-trending .section-heading,
